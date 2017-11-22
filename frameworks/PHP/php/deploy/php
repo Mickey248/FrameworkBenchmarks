@@ -1,4 +1,4 @@
-<localhost:8080>
+<VirtualHost *:8080>
   Alias /php/ "TEST_ROOT/"
   <Directory TEST_ROOT/>
           Options Indexes FollowSymLinks MultiViews
